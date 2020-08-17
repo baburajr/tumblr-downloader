@@ -1,5 +1,5 @@
 # tumblr-downloader
-soundcloud scraping with selenium and python
+tumblr downloader with Requests and BeautifulSoup
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
