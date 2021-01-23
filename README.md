@@ -1,5 +1,5 @@
 # tumblr-downloader
-tumblr downloader with Requests and BeautifulSoup
+tumblr downloader with Requests 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -7,7 +7,7 @@ tumblr downloader with Requests and BeautifulSoup
 * [Samples](#samples)
 
 ## General info
-This project is simple Tumblr scraping using python and selenium.
+This project is simple Tumblr scraping using python
 	
 ## Technologies
 Project is created with:
