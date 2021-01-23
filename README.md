@@ -7,7 +7,7 @@ tumblr downloader with Requests and BeautifulSoup
 * [Samples](#samples)
 
 ## General info
-This project is simple soundcloud scraping using python and selenium.
+This project is simple Tumblr scraping using python and selenium.
 	
 ## Technologies
 Project is created with:
